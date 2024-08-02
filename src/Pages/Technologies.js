@@ -34,10 +34,10 @@ function Technologies() {
       </section>
       <section className="grid grid-cols-4 md:grid-cols-5 lg:grid-cols-6 items-center gap-10 pt-6">
         <img src={java} title="java" alt="" />
-        <img src={mongodb} title="java" alt="" />
-        <img src={nodejs} title="java" alt="" />
-        <img src={sql} title="java" alt="" />
-        <img src={python} title="java" alt="" />
+        <img src={mongodb} title="mongoDb" alt="" />
+        <img src={nodejs} title="nodejs" alt="" />
+        <img src={sql} title="sql" alt="" />
+        <img src={python} title="python" alt="" />
         <img src={html} title="html" alt="" />
         <img src={css} title="CSS" alt="" />
         <img src={js} title="JavaScript" alt="" />

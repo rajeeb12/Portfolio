@@ -6,7 +6,7 @@ function Footer() {
         Designed and Coded by{" "}
         <a
           className="font-medium"
-          href=""
+          href="https://portfolio-nu-blue-54.vercel.app/"
           target="_blank"
           rel="noreferrer noopener"
         >
