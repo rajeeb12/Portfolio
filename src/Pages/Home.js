@@ -37,7 +37,7 @@ function Home() {
         h13.current,
         {
           x: "-100%",
-          delay: 0.1,
+          delay: 0.3,
           opacity: 0,
           duration: 2,
           ease: "Power3.easeOut",
