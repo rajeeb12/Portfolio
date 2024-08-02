@@ -45,17 +45,6 @@ function Home() {
         "<"
       )
       .from(
-        h14.current,
-        {
-          x: "-100%",
-          delay: 0.1,
-          opacity: 0,
-          duration: 2,
-          ease: "Power3.easeOut",
-        },
-        "<"
-      )
-      .from(
         myimageref.current,
         {
           x: "200%",
@@ -90,7 +79,6 @@ function Home() {
           {tagline}
         </h2>
         <a
-          ref={h14}
           href="https://bit.ly/3LQmy3K"
           target="_blank"
           rel="noreferrer noopener"
