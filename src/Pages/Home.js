@@ -79,7 +79,7 @@ function Home() {
           {tagline}
         </h2>
         <a
-          href="https://shorturl.at/fMeRB"
+          href="https://tinyurl.com/rajeeb-resume"
           target="_blank"
           rel="noreferrer noopener"
           class="mt-2 relative inline-flex items-center justify-start inline-block px-5 py-3 overflow-hidden font-bold rounded-full group"
