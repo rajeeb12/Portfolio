@@ -66,7 +66,7 @@ export const eduDetails = [
     Company: `University Of Engineering And Management`,
     Location: "Kolkata",
     Type: "Full Time",
-    Duration: "May 2016 - April 2016",
+    Duration: "May 2016 - April 2020",
   },
 ];
 
