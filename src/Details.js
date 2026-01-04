@@ -38,7 +38,7 @@ export const personalDetails = {
   name: "Rajeeb Bhowmick",
   tagline: "I am a Software Engineer",
   img: profile,
-  about: `I am a passionate software engineer with over 2 years of experience in full-stack development, dedicated to building innovative and scalable solutions. With a keen eye for detail and a commitment to continuous learning, I thrive in collaborative environments and excel at tackling complex technical challenges.`,
+  about: `Software Engineer with 4+ years of experience building and maintaining web applications using React.js, Java, and Spring Boot. Has worked in Agile teams on client-facing features, REST API integrations, and security-related fixes. Comfortable collaborating with different teams to deliver stable and maintainable applications.`,
 };
 // Social Media URLs
 export const socialMediaUrl = {
