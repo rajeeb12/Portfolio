@@ -12,9 +12,9 @@ function Footer() {
         >
           Rajeeb Bhowmick
         </a>{" "}
-        with
-        <span className="text-gradient font-medium"> Love</span> &
-        <span className="text-gradient font-medium"> Coffee</span>
+        with{" "}
+        <span className="text-gradient font-medium">Love</span>{" "}&{" "}
+        <span className="text-gradient font-medium">Coffee</span>
       </p>
     </footer>
   );

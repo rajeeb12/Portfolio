@@ -15,7 +15,16 @@ function Header() {
         <NavLink to="/">
           {/* <img className="w-14" src={logos.logogradient} alt="logo" /> */}
         </NavLink>
-        <div onClick={toggleClass} className="cursor-pointer">
+        <button
+          onClick={toggleClass}
+          onKeyDown={(e) => {
+            if (e.key === "Enter" || e.key === " ") {
+              toggleClass();
+            }
+          }}
+          className="cursor-pointer bg-transparent border-none p-0"
+          aria-label="Toggle navigation menu"
+        >
           <svg
             className="stroke-dark-heading dark:stroke-white md:hidden"
             width="25"
@@ -31,7 +40,7 @@ function Header() {
               strokeLinejoin="round"
             />
           </svg>
-        </div>
+        </button>
       </div>
       <nav
         className={` ${

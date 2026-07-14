@@ -1,6 +1,5 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useRef } from "react";
 import { contactDetails } from "../Details";
-import { useRef } from "react";
 import gsap from "gsap";
 
 function Contact() {
